@@ -31,7 +31,7 @@ class Connect():
         JSONresponse = response.json()
 
         self.user_token = JSONresponse['access_token']
-        self.refresh_token = JSONresponse['refresh_token']
+       
 
     def readSongs(self):
         # Read songs from a playlist

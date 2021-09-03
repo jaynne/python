@@ -30,4 +30,3 @@ will use it to run the script.**
 ***
 Observations: 
 - The graph generated does not show info about **all** songs yet ~~(I have to work on it)~~
-- If you want to run `generateGraph.py` more than once, comment the line with `user.getTokens()`. Remember that your token expires within one hour.

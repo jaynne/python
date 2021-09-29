@@ -25,8 +25,8 @@ will use it to run the script.**
 
 **3. Set `user_code` on `secrets.py` to the code you copied on step 2.**
 
-**4. Run `generateGraph.py` and see your results!**
-
+**4. Run `generateGraph.py` and see your results, that will look like this:**
+![playlist-image](img/playlist.jpg)
 ***
 Observations: 
 - The graph generated does not show info about **all** songs yet ~~(I have to work on it)~~

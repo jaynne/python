@@ -1,4 +1,7 @@
 ## Create a graph with audio features from your playlist's tracks using matplotlib and seaborn
+
+![playlist-image](img/playlist.jpg)
+
 ***
 This is a simple test script with which you can generate a graph of two song features (of your choice) from your playlist's tracks.
 As it is a test for using Spotify's API features, you will need to have a **client ID** and set up a few things, described here: https://developer.spotify.com/documentation/general/guides/app-settings/
@@ -25,8 +28,7 @@ will use it to run the script.**
 
 **3. Set `user_code` on `secrets.py` to the code you copied on step 2.**
 
-**4. Run `generateGraph.py` and see your results, that will look like this:**
-![playlist-image](img/playlist.jpg)
+**4. Run `generateGraph.py` and see your results!**
 ***
 Observations: 
 - The graph generated does not show info about **all** songs yet ~~(I have to work on it)~~
